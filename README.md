@@ -5,10 +5,10 @@ The TextSummarizer even suggests online relevant content available for the topic
 The VideoSummarizer can be used to generate Video Summary given Video(.mp4) and Subtitles(.srt) files.    
 
 ## Output : 
-The input used is a video file "deep.mp4" that can be downloaded from the outputs folder 
+The input used is a video file [deep.mp4]() that can be downloaded from the outputs folder 
 
 ### Video Summarizer Output : 
-The output of this code is basically a summary video generated and stored as a mp4. "deep_summary.mp4" is the output generated from my input file and it can be downloaded and viewed in the outputs folder.
+The output of this code is basically a summary video generated and stored as a mp4. [deep_summary.mp4]() is the output generated from my input file and it can be downloaded and viewed in the outputs folder.
 
 The console output is : 
 ![console output](https://github.com/aashay15/Extractive-Video-Text-Summarizer/blob/master/Outputs/Screenshot%202022-02-01%20at%2012.01.06%20PM.png)
